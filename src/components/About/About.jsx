@@ -56,6 +56,7 @@ export default function About() {
                             <img src={beer1} className="img" alt="" />
                             <img src={beer5} className="img" alt="" />
                             <img src={beer4} className="img" alt="" />
+                            <img src={beer4} className="img" alt="" />
                         </div>
                     </div>
                 </div>
